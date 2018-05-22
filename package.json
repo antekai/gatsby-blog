@@ -1,6 +1,6 @@
 {
-  "name": "Andrete, Dev blog",
-  "description": "Andrete, Dev blog, Gatsby-blog",
+  "name": "devBlog",
+  "description": "devBlog",
   "author": "Andreas Teneketzoglou <info@andrete.eu>",
   "repository": "https://github.com/antekai/gatsby-blog.git",
   "version": "1.0.0",
