@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-personal-blog",
-  "description": "A Gatsby starter for a personal blog",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
-  "repository": "https://github.com/greglobinski/gatsby-starter-personal-blog",
-  "version": "1.0.7",
+  "name": "Andrete, Dev blog",
+  "description": "Andrete, Dev blog, Gatsby-blog",
+  "author": "Andreas Teneketzoglou <info@andrete.eu>",
+  "repository": "https://github.com/antekai/gatsby-blog.git",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
