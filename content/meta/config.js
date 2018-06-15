@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "AndreTe | Dev Blog", // <title>
   shortSiteTitle: "AndreTe | Dev Blog", // <title> ending for posts and pages
   siteDescription:
-    "AndreTe | demos, projects and articles about web development. Andreas Teneketzoglou | Front end web developer ",
+    "AndreTe | demos, projects and articles about web development. Andreas Teneketzoglou,  Front end web developer ",
   siteUrl: "https://devblog.netlify.com/",
   pathPrefix: "",
   siteImage: "preview.jpg",

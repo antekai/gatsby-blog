@@ -5,8 +5,8 @@ category: "Project"
 cover: folioenag.png
 ---
 
-URL: https://angry-goodall-819f8e.netlify.com  
-Source: https://github.com/antekai/recipe-graphql-api  
-Type: Demo, Full stack app, React + GraphQL client, GraphQL api  
-Date: April 2018  
-Stack: React.js(CRA), GraphQL, aws-appsync, Netlify (CD), npm
+URL: https://ante.netlify.comm  
+Source: https://github.com/antekai/portfolio-enag  
+Type: Demo, Static PWA, Gatsby.js  
+Date: February 2018  
+Stack: Gatsby.js, React.js, GraphQL, SASS, CSS Modules, Netlify (CD), npm
