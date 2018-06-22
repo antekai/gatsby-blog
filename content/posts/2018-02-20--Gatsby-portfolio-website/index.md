@@ -5,7 +5,7 @@ category: "Project"
 cover: folioenag.png
 ---
 
-URL: https://ante.netlify.comm  
+URL: https://ante.netlify.com 
 Source: https://github.com/antekai/portfolio-enag  
 Type: Demo, Static PWA, Gatsby.js  
 Date: February 2018  
