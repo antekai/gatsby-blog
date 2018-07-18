@@ -1,3 +1,3 @@
 User-agent: *
 
-sitemap: 
+sitemap: https://www.andrete.eu/sitemap.xml
