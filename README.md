@@ -1,9 +1,11 @@
-# AndreTe | Dev Blog
+# gatsby-blog
 
-A personal blog built with [GatsbyJS](https://www.gatsbyjs.org/). <br /><br />
+A personal blog about web development  
+Built with [Gatsby.js](https://www.gatsbyjs.org/). <br /><br />
 
 ## Features:
 
+* State management with Redux
 * Styling with JSS
 * Post categories
 * Post list filtering
