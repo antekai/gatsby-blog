@@ -1,11 +1,11 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "AndreTe | Dev Blog", // <title>
-  shortSiteTitle: "AndreTe | Dev Blog", // <title> ending for posts and pages
+  siteTitle: "Andreas Teneketzoglou | Front end development", // <title>
+  shortSiteTitle: "AndreTe | Front end development", // <title> ending for posts and pages
   siteDescription:
-    "AndreTe | demos, projects and articles about web development. Andreas Teneketzoglou,  Front end web developer ",
-  siteUrl: "https://devblog.netlify.com/",
+    "Demos, projects and articles about web development by Andreas Teneketzoglou",
+  siteUrl: "https://andrete.eu/",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -14,10 +14,10 @@ module.exports = {
   authorTwitterAccount: "antekaiw",
   // info
   infoTitle: "AndreTe",
-  infoTitleNote: "Dev Blog",
+  infoTitleNote: "Andreas Teneketzoglou",
   // manifest.json
-  manifestName: "AndreTe | Dev Blog",
-  manifestShortName: "AndreTe|Dev", // max 12 characters
+  manifestName: "AndreTe | Front end development",
+  manifestShortName: "AndreTe|FED", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,

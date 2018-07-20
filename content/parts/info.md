@@ -2,4 +2,4 @@
 title: info
 ---
 
-Hi, I am Andreas, a front end web developer based in Berlin. Here I share demos, projects and ideas.
+Hi, I am a Front-end Developer with a multidisciplinary background and a growth mindset. Open for opportunities. Feel free to contact me.
