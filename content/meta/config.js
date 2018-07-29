@@ -43,8 +43,8 @@ module.exports = {
       url: "https://linkedin.com/in/andreasten"
     },
     {
-      name: "codepen",
-      url: "https://codepen.io/antekai/"
+      name: "xing",
+      url: "https://www.xing.com/profile/Andreas_Teneketzoglou"
     }
   ]
 };
