@@ -4,7 +4,7 @@ subTitle: Project | Landing page, Static PWA, Bootstrap, Apache
 category: "Project"
 cover: gavan-mock.png
 ---
-
+![Mockup - Gastronomie von Anfang an](./gavan-mock.png)
 URL: https://gastronomievonanfangan.de/  
 Docs & Styleguide: https://gastronomievonanfangan.de/pattern-library/  
 Date: August 2017  
@@ -18,3 +18,6 @@ Stack: Bootstrap, JQuery, sass, npm, Apache
 * Testing, optimization, maintenance and documentation.
 * Facebook, LinkedIn, Xing business pages setup.
 * Google business and google search console registration. Google analytics integration.
+
+## Lighthouse report
+![Lighthouse report](./gavan-lr.png)

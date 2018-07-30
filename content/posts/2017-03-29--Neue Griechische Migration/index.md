@@ -4,8 +4,8 @@ subTitle: Project | Landing page, Bootstrap, Apache
 category: "Project"
 cover: mockup-nem.jpg
 ---
-
-URL: http://nem2017.de/  
+![Mockup - Neue Griechische Migration](./mockup-nem.jpg)
+URL: https://nem2017.de/  
 Type: Static website  
 Date: March 2017 (maintenance until October 2017)  
 Stack: Bootstrap, JQuery, sass, npm, Apache

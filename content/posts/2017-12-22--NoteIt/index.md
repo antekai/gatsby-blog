@@ -2,7 +2,7 @@
 title: NoteIt
 subTitle: Demo | React client, Serverless backend, Amazon Web Services
 category: "Demo"
-cover: noteit.png
+cover: rawpixel-395556-unsplash.jpg
 ---
 
 URL: http://d3599lednt2jor.cloudfront.net/  
