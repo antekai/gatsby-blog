@@ -2,4 +2,5 @@
 title: info
 ---
 
-Hi, I am a Front-end Developer with a multidisciplinary background and a growth mindset. Open for opportunities. Feel free to contact me.
+Hello! My name is Andreas. I am a front-end developer with multidisciplinary background and growth mindset. Open for opportunities!
+

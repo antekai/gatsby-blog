@@ -81,6 +81,7 @@ const styles = theme => ({
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       fontSize: `${theme.info.fonts.boxTitleSizeL}em`,
+      // fontSize:"1.2em",
       position: "absolute",
       top: "85px",
       textAlign: "center",
@@ -89,14 +90,14 @@ const styles = theme => ({
       transition: "all .5s",
       ".is-aside.open &": {
         left: "60%",
-        top: `${1.9 - theme.info.fonts.boxTitleSizeL}em`,
+        top: `${2.3 - theme.info.fonts.boxTitleSizeL}em`,
         textAlign: "left"
       }
     }
   },
   expand: {
     position: "absolute",
-    top: "30px",
+    top: "40px",
     right: "-25px",
     display: "none",
     color: theme.info.colors.text,
