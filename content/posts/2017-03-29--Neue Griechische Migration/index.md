@@ -17,3 +17,9 @@ Stack: Bootstrap, JQuery, sass, npm, Apache
 * Email-design (mjml framework) and marketing (mailchimp).
 * Typeform integration, form analytics and reports.
 * Google analytics integration.
+
+![nem-poster](./nem-poster.jpg)
+![nem-rollup](./nem-rollup.jpg)
+![nem-email](./nem-email.jpg)
+![nem-program](./nem-program.jpg)
+![nem-stream](./stream.png)
