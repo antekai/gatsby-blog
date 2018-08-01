@@ -1,15 +1,15 @@
 ---
-title: Gatsby Portfolio Website 
-subTitle: Project | Static PWA, GatsbyJS (React+GraphQL), Netlify
+title: Portfolio-enag 
+subTitle: Project | Static Progressive Web App
 category: "Project"
 cover: no_mockup_7-ante.jpg
 ---
-![Mockup- Gatsby portfolio-enag](./no_mockup_7-ante.jpg)
+![Mockup - portfolio-enag](./no_mockup_7-ante.jpg)
 URL: https://ante.netlify.com  
 Source: https://github.com/antekai/portfolio-enag  
-Type: Demo, Static PWA, Gatsby.js  
+Tags: Portfolio, Static Progressive Web App  
 Date: February 2018  
-Stack: Gatsby.js, React.js, GraphQL, SASS, CSS Modules, Netlify (CD), npm  
+Stack: Gatsby.js, React.js, GraphQL, SASS, CSS modules, Google Analytics, Netlify 
 
 ## Lighthouse Report
 ![Lighthouse report](./ante-lr2.png)

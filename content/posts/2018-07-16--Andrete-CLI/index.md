@@ -10,7 +10,7 @@ Install Node.js, then:
 
 URL: https://www.npmjs.com/package/andrete  
 Source: https://github.com/antekai/andrete-cli  
-Type: Demo, CLI app, Business card  
+Tags: Demo, CLI app, Business card  
 Date: July 2018  
 Stack: React.js, [ink](https://github.com/vadimdemedes/ink), npm
 

@@ -6,9 +6,9 @@ cover: mockup-nem.jpg
 ---
 ![Mockup - Neue Griechische Migration](./mockup-nem.jpg)
 URL: https://nem2017.de/  
-Type: Static website  
-Date: March 2017 (maintenance until October 2017)  
-Stack: Bootstrap, JQuery, sass, npm, Apache
+Tags: Landing Page, Conference  
+Date: June 2017 (maintenance until October 2017)  
+Stack: Bootstrap, jQuery, sass, npm, Apache
 
 **Service**
 
