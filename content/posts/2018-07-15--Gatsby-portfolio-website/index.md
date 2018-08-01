@@ -9,7 +9,8 @@ URL: https://ante.netlify.com
 Source: https://github.com/antekai/portfolio-enag  
 Tags: Portfolio, Static Progressive Web App  
 Date: February 2018  
-Stack: Gatsby.js, React.js, GraphQL, SASS, CSS modules, Google Analytics, Netlify 
+Stack: Gatsby.js, React.js, GraphQL, SASS, CSS modules, Google Analytics, Netlify
+Service: End-to-end 
 
 ## Lighthouse Report
 ![Lighthouse report](./ante-lr2.png)
