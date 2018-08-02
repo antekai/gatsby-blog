@@ -1,6 +1,6 @@
 ---
 title: NoteIt
-subTitle: Demo | React client, Serverless framework, Amazon Web Services
+subTitle: Demo | Full stack app, React, Serverless framework, Amazon Web Services
 category: "Demo"
 cover: rawpixel-395556-unsplash.jpg
 ---
