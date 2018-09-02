@@ -9,9 +9,11 @@ cover: gatsby-blog.jpg
 
 URL: https://andrete.eu  
 Source: https://github.com/antekai/gatsby-blog  
-Tags: Blog, Static Progressive Web App
+Tags: Blog, Static Progressive Web App  
+Date: June 2018  
 Stack: Gatsy.js, React.js, Redux,js, GraphQL, JSS, Material-UI, Algolia, Google Analytics, Netlify  
 Service: End-to-end
 
 ## Lighthouse Report
+
 ![gatsby blog](./andrete-lr.png)
