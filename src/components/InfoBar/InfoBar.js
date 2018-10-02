@@ -37,6 +37,9 @@ const styles = theme => ({
     float: "left",
     margin: "10px 0 0 15px",
     color: theme.bars.colors.text,
+    [`@media (max-width: ${theme.mediaQueryTresholds.L}px)`]: {
+      marginTop: "20px"
+    },
     "& small": {
       display: "block",
       fontSize: ".65em",
