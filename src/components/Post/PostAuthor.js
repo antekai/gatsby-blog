@@ -20,6 +20,9 @@ const styles = theme => ({
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       flexDirection: "row",
       justifyContent: "center"
+    },
+    [`@media (max-width: ${theme.mediaQueryTresholds.M}px)`]: {
+      textAlign: "center"
     }
   },
   avatar: {
