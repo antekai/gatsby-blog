@@ -11,10 +11,12 @@ Editable table with [Angular 6](https://angular.io/) and [NG-ZORRO - Ant Design 
 URL: https://editabletable-angular.netlify.com/  
 Source: https://github.com/antekai/ct-pl-editableTable-angular  
 Tags: Demo, Editable table, angular app, ng-zorro, coding task  
-Date: 4-6 September 2018, 13-15 September (updated version)  
+Date: 4-6 September 2018(v1), 13-15 September(v2)  
 Stack: Angular 6, RxJS, TypeScript, ng-zorro
 
 ## Features
+
+--v1 inline-edit --
 
 * Raw data preprocess and render to a table
 * Inline edit and save per record(row): number, checkbox, select, datePicker, timePicker, radio input for respective data type
@@ -22,9 +24,10 @@ Stack: Angular 6, RxJS, TypeScript, ng-zorro
 * Template driven forms, validation
 * Netlify CD
 
---updated version--
+--v2 view-table --
 
-* Firebase backend API
+* Different routes for view and edit table
+* Firebase backend API setup and management
 * Observables for http-requests to Firebase API
 * Extra services for http-requests and routing, extra pipes for data manipulation
 * Reactive Forms

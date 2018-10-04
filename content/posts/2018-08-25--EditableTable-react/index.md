@@ -1,6 +1,6 @@
 ---
 title: Editable Table (React)
-subTitle: Demo | react app, ant design, coding task
+subTitle: Demo | react app, ant-design, coding task
 category: "Demo"
 cover: demo.jpg
 ---

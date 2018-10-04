@@ -8,7 +8,7 @@ cover: demo.jpg
 Invoice user flow with react and [ant-design](https://ant.design/). This is a static prototype (no backend service is connected).
 
 URL: https://static-invoice.netlify.com  
-Source: https://raw.githubusercontent.com/antekai/ct-fin-beta  
+Source: https://github.com/antekai/ct-fin-beta  
 Tags: Demo, Invoice, ant-design, coding task  
 Date: 27-29 August 2018  
 Stack: React.js, ant-design
