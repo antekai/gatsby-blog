@@ -11,7 +11,7 @@ _Create, edit, delete, view map locations with react and google maps API._
 
 ## Preview
 
-URL: https://react-map-app.netlify.com/
+URL: https://react-map-app.netlify.com/  
 Source: https://github.com/antekai/ct-med-map/
 
 ![](react-map-app-cy.gif)

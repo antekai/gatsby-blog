@@ -4,7 +4,7 @@ import injectSheet from "react-jss";
 import Avatar from "material-ui/Avatar";
 
 import config from "../../../content/meta/config";
-import avatar from "../../images/jpg/anteLogo-80x80.png";
+import avatar from "../../images/jpg/avat.png";
 
 const styles = theme => ({
   author: {
