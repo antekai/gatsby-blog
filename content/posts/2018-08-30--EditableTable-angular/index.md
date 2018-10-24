@@ -1,6 +1,6 @@
 ---
 title: Editable Table (angular)
-subTitle: Demo | angular app, ng-zorro, coding task
+subTitle: Demo | full-stack, angular 6, ng-zorro, firebase, coding task
 category: "Demo"
 cover: demo.jpg
 ---
@@ -10,9 +10,9 @@ Editable table with [Angular 6](https://angular.io/) and [NG-ZORRO - Ant Design 
 
 URL: https://editabletable-angular.netlify.com/  
 Source: https://github.com/antekai/ct-pl-editableTable-angular  
-Tags: Demo, Editable table, angular app, ng-zorro, coding task  
+Tags: Demo, Editable table, full-stack, angular app, ng-zorro, coding task  
 Date: 4-6 September 2018(v1), 13-15 September(v2)  
-Stack: Angular 6, RxJS, TypeScript, ng-zorro
+Stack: Angular 6, RxJS, TypeScript, ng-zorro, firebase realtimeDB
 
 ## Features
 
