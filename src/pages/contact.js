@@ -18,10 +18,17 @@ const Contact = () => {
       <Article>
         <PageHeader title="Contact" />
         <Content>
-          Feel free to contact me by email: <Obfuscate email={config.contactEmail} /> or use the
-          form below.
+          Feel free to connect with me at&nbsp;
+          <a href="https://linkedin.com/in/andreasten" target="_blank">
+            LinkedIn
+          </a>
+          ,&nbsp;
+          <a href="https://www.xing.com/profile/Andreas_Teneketzoglou" target="_blank">
+            Xing
+          </a>{" "}
+          or to contact me by email: <Obfuscate email={config.contactEmail} />
         </Content>
-        <Form />
+        {/* <Form /> */}
       </Article>
     </Main>
   );
